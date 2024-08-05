@@ -1,0 +1,49 @@
+.base{
+    display: flex;
+    justify-content: space-between;
+}
+#nav{
+   width:150px; 
+   margin-top: 15px;
+}
+.logo{
+    padding-top: 20px;
+    margin-right: 250;
+}
+#log{
+    margin-right: 40;
+    color: rgb(99, 110, 99);
+    font-family:sans-serif;
+    gap: 20;
+    cursor: pointer;
+}
+.image{
+    margin-left: 200;
+}
+.nav2{
+    padding-top: 60;
+    padding-left: 400;
+}
+#hero{
+    font-family: sans-serif;
+    color: rgb(59, 58, 58);
+    margin-left: 600;
+    font-size: 50;
+}
+#hero1{
+    font-family: serif;
+    margin-left: 400;
+    font-size: 25;
+}
+#bro{
+    background-color: #387ed1;
+    font-size: 20;
+    color: white;
+    margin-left: 700;
+    margin-top:30;
+    padding-left: 15;
+    padding-right: 15;
+    padding-top: 15;
+    padding-bottom: 15;
+    
+}
